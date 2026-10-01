@@ -88,6 +88,9 @@ Frontend deployment URL: add after deployment.
 Backend deployment URL: add after deployment.
 
 For Render, configure the environment variables listed above and use `npm start` as the start command. Configure the frontend deployment with the backend URL and set `CLIENT_URL` to the frontend's deployed URL.
+## Assignment documents
+
+- Frontend-[Functional requirements document](docs/FRD.md)
 
 ## AI usage declaration
 
